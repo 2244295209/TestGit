@@ -7,5 +7,6 @@ public class Main {
         System.out.println("git3............");
         System.out.println("git4............");
         System.out.println("hot_git1........");
+        System.out.println("hot_git2........");
     }
 }
